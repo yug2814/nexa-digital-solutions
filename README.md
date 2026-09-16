@@ -1,45 +1,74 @@
 # Nexa Digital Solutions
 
-A premium digital agency portfolio website built as a fictional portfolio/demo project by Yug Lathiya.
+A premium, responsive digital agency website concept designed and developed as a portfolio project.
 
-## Project Overview
+## 🌐 Live Demo
 
-Nexa Digital Solutions presents a polished studio identity for a modern digital agency. The single-page experience combines strategy, design, and front-end development through a responsive editorial layout, product-inspired visuals, interactive project previews, and clear conversion paths.
+[https://nexa-digital-solutions-black.vercel.app](https://nexa-digital-solutions-black.vercel.app)
 
-## My Role
+## 📌 Project Overview
 
-UI/UX Designer & Front-End Developer
+Nexa Digital Solutions is a concept digital agency website created to demonstrate modern UI/UX design and front-end development skills.
 
-## Technologies
+The project focuses on:
 
-- React 19
+- Strong visual hierarchy
+- Responsive layouts
+- Modern typography
+- Clean component architecture
+- Interactive UI
+- Mobile-first usability
+- Accessible and semantic markup
+
+## 👨‍💻 My Role
+
+**UI/UX Designer & Front-End Developer**
+
+I designed the interface and developed the responsive frontend experience using React and TypeScript.
+
+## 🛠️ Technologies
+
+- React
 - TypeScript
 - Vite
-- CSS with custom design tokens and responsive media queries
-- Semantic HTML and accessible interaction patterns
+- CSS
+- ESLint
+- Git
+- GitHub
 
-## Key Features
+## ✨ Key Features
 
-- Responsive agency landing page for mobile, tablet, and desktop
-- Functional smooth-scroll navigation with mobile menu
-- Interactive fictional project cards with accessible detail dialogs
-- Custom CSS product and project visuals without stock imagery
-- Service, process, about, stats, testimonial, contact, and footer sections
-- Subtle entrance and hover motion with reduced-motion support
-- Keyboard-visible focus states and semantic buttons/links
-- Portfolio/demo labels to distinguish fictional content from real client work
+- Responsive design
+- Mobile navigation
+- Smooth section navigation
+- Interactive project cards
+- Responsive service sections
+- Contact form UI with client-side feedback
+- Hover and entrance animations
+- Accessible semantic HTML
+- Mobile, tablet, and desktop layouts
 
-## Design Approach
+## 🎨 Design Approach
 
-The design keeps Nexa's existing visual identity: warm paper tones, deep ink typography, cobalt blue, citrus yellow, and orange accents. Manrope provides a confident display voice while DM Mono supports the studio's technical details and labels. Spacious editorial grids, restrained borders, and product-interface abstractions create a premium agency feel without relying on excessive gradients, glassmorphism, or generic template patterns.
+The design uses a restrained editorial system built around premium typography, generous spacing, and clear visual hierarchy. Warm paper tones, deep ink, cobalt blue, citrus yellow, and orange accents create a distinct Nexa identity without relying on excessive gradients or generic template styling.
 
-## Responsive Design Details
+Consistent design tokens keep colors, spacing, borders, and typography coherent across the interface. Responsive grids, stacked mobile layouts, visible focus states, and subtle hover and entrance interactions support a polished experience across screen sizes.
 
-The layout is mobile-first in behavior and adapts its grid systems at narrower breakpoints. Desktop project rows become stacked interactive previews on mobile, service cards collapse into a two-column layout, the navigation becomes a functional disclosure menu, and dialog content scales within a comfortable viewport-safe frame. Motion is disabled or minimized when the user prefers reduced motion.
+## 📱 Responsive Design
 
-## How To Run Locally
+The interface is designed for:
+
+- Desktop
+- Tablet
+- Mobile
+
+Layouts adapt across breakpoints with responsive navigation, stacked content sections, flexible project previews, mobile-friendly forms, and overflow-safe typography.
+
+## 🚀 Getting Started
 
 ```bash
+git clone <repository-url>
+cd nexa-digital-solutions
 npm install
 npm run dev
 ```
@@ -54,6 +83,6 @@ npm run lint
 npm run preview
 ```
 
-## Portfolio / Demo Disclaimer
+## ⚠️ Portfolio Demo Disclaimer
 
-Nexa Digital Solutions is a fictional portfolio/demo agency project created by Yug Lathiya. Aether Finance, Luma Commerce, Orbit Analytics, all statistics, testimonials, contact details, and project outcomes shown on the site are fictional demonstration content and do not represent real clients, business results, or professional claims.
+Nexa Digital Solutions is a fictional concept/demo project created for Yug Lathiya's portfolio. It does not represent a real company or client engagement. Any projects, statistics, testimonials, contact details, and outcomes shown in the interface are fictional demonstration content and should not be interpreted as real business claims.
